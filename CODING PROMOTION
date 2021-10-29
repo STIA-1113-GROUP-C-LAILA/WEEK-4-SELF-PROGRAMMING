@@ -1,0 +1,16 @@
+package selfProgramming;
+
+public class Promotion {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int count = 24;
+		double sum = 550.99;
+		double result;
+		result = sum/count;
+		
+		System.out.println("The result for your test is :" + result);
+
+	}
+
+}
