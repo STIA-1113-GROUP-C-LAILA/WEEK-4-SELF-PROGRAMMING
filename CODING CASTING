@@ -1,0 +1,17 @@
+package selfProgramming;
+
+public class Casting {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		int total;
+		total = 70;
+		float result = (float) total/6;
+		
+		System.out.println("The total for your change is : " + result);
+				
+
+	}
+
+}
