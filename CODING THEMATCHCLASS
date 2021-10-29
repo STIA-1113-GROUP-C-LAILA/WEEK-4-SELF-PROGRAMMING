@@ -1,0 +1,16 @@
+package selfProgramming;
+
+public class TheMathClass {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		double x = 25;
+		double y = 6;
+		
+		System.out.println("The minimum number of x and y is : " + Math.min(x, y));
+		
+		System.out.println("The square root of x is : " + Math.sqrt(x));
+
+	}
+
+}
