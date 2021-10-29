@@ -9,7 +9,7 @@ public class Promotion {
 		double result;
 		result = sum/count;
 		
-		System.out.println("The result for your test is :" + result);
+		System.out.println("The result for your test is : " + result);
 
 	}
 
