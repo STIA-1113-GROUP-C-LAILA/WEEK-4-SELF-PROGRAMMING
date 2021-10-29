@@ -1,0 +1,19 @@
+package selfProgramming;
+
+public class AssignmentConversion {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int ringgit;
+		ringgit = 40;
+		double money = ringgit;
+		
+		System.out.println("The price for one bed is = " + money);
+		
+
+		
+		
+
+	}
+
+}
