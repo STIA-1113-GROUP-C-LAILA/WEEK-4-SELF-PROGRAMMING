@@ -1,0 +1,16 @@
+package selfProgramming;
+
+public class Power {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int x = 5;
+		int y = 10;
+		
+		double asci = Math.pow(x, y);
+		
+		System.out.println("The formula of power is : " + asci);
+
+	}
+
+}
