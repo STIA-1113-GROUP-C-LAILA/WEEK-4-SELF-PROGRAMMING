@@ -1,0 +1,40 @@
+package selfProgramming;
+
+public class SquareRoot1 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		char x = 'a';
+		char y = 'b';
+		char z = 'c';
+		double result;
+		result = (-y + Math.sqrt(y*y + 4 *x*z))/(2*x);
+		
+		double i = y*y;
+		double j = 4*x*z;
+		double k = -(i-j);
+		double kk = Math.sqrt(k);
+		double l = -y + kk;
+		double m = 2*x;
+		double mm = l/m;
+		int asci = (int)x;
+		int ascii = (int)y;
+		int asciii = (int)z;
+		
+		System.out.println("x is : " + asci);
+		System.out.println("y is : " + ascii);
+		System.out.println("z is : " + asciii);
+		System.out.println("i is : " + i);
+		System.out.println("j is : " + j);
+		System.out.println("k is : " + k);
+		System.out.println("kk is : " + kk);
+		System.out.println("l is : " + l);
+		System.out.println("m is : " + m);
+		System.out.println("mm is : " + mm);
+		
+		
+		
+
+	}
+
+}
