@@ -8,8 +8,8 @@ public class TheMathClass {
 		double y = 6;
 		
 		System.out.println("The minimum number of x and y is : " + Math.min(x, y));
+		System.out.println("The maximum number of x and y is : " + Math.max(x, y));
 		
-		System.out.println("The square root of x is : " + Math.sqrt(x));
 
 	}
 
