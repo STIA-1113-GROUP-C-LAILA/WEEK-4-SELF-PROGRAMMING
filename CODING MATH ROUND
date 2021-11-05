@@ -1,0 +1,15 @@
+package selfProgramming;
+
+public class Round {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		double ijk = 125.555;
+		double asci = Math.round(ijk);
+		
+		System.out.println("The round number is : " + asci);
+
+	}
+
+}
